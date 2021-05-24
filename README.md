@@ -23,7 +23,7 @@ file.json example:
       }
     },
     {
-      "source": "server2",
+      "source": "server-2",
       "stream": "system-logs",
       "config": {
         "path": "/var/log/**/*.log",
